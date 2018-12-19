@@ -30,7 +30,7 @@ export default props => {
             <thead>
                 <tr>
                     <th>Lista de tarefas</th>
-                    <th>Ações</th>
+                    <th className='tableActions'>Ações</th>
                 </tr>
             </thead>
             <tbody>
